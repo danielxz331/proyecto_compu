@@ -3,7 +3,7 @@ import pandas as pd
 import re
 from collections import Counter
 
-# Diccionario para normalizar tecnologías
+
 TECH_NORMALIZATION = {
     "Python": "Python", "python": "Python",
     "JavaScript": "JavaScript", "javascript": "JavaScript", "js": "JavaScript",
