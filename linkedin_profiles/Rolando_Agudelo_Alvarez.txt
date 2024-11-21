@@ -1,0 +1,161 @@
+Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-Nombre: Rolando Agudelo Alvarez
+Experiencia: [Experience(institution_name='Corrdinador Ingeniería Electronica', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='', position_title='', duration=None, location=''), Experience(institution_name='Institucion Universitaria de Envigado', linkedin_url='https://www.linkedin.com/company/818957/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2010 -', to_date='', description='', position_title='Docente', duration='3 años', location='')]
+Educación: []
+URL: https://co.linkedin.com/in/rolando-agudelo-alvarez-073a7369
+-
